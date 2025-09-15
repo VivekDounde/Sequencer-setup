@@ -1,0 +1,6 @@
+ PUBLIC_URL=https://newsite-mstblockchain.b-cdn.net npm run build
+
+
+
+
+aws configure --profile orbit-coin
